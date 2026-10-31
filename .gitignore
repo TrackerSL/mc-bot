@@ -1,0 +1,5 @@
+.env
+.env.*
+!.env.example
+accounts.json
+node_modules/
